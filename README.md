@@ -1,3 +1,3 @@
 # encrypted-im
 
-An encrypted IM messenger written in PYthon using Pycryptodome.
+An encrypted IM messenger written in Python using Pycryptodome.
